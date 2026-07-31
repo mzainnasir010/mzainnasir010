@@ -129,37 +129,6 @@ Responsive bakery website with dynamic animations and dark/light theme support, 
 
 <br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mzainnasir010&show_icons=true&hide_border=true&count_private=true&theme=github_dark_dimmed" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mzainnasir010&hide_border=true&theme=github-dark-blue" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzainnasir010&layout=compact&hide_border=true&theme=github_dark_dimmed" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mzainnasir010&hide_border=true&theme=github-dark" height="165"/>
-
-</div>
-
-<div align="center">
-
-### 🏆 Trophy Room
-<img src="https://github-profile-trophy.vercel.app/?username=mzainnasir010&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mzainnasir010/mzainnasir010/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<br>
-
-<div align="center">
-
 ### 🤝 Let's Build Something
 
 <a href="http://www.linkedin.com/in/muhammad-zain-nasir-811303365" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
