@@ -64,75 +64,87 @@ Full-Stack Web Developer specializing in the **MERN Stack** (MongoDB, Express.js
 </table>
 
 ## 🚀 Featured Builds
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🏛️ <a href="https://miraas.tech/" target="_blank" rel="noopener noreferrer">Miraas</a>
 **AI + Web3 Digital Museum Ecosystem**
-
 Full-stack platform for cultural heritage preservation — React admin dashboard, public site, and an Ethereum NFT marketplace. AI pipeline (SegFormer + custom UNet-ResNet) auto-detects artifact defects and drives restoration.
-
 `React` `Solidity/Web3` `NFT` `SegFormer` `UNet-ResNet`
+<br>
+<a href="https://miraas.tech/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/miraas" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
+<td width="50%" valign="top">
+
+### 🌊 <a href="https://pdme.vercel.app/" target="_blank" rel="noopener noreferrer">Pakistan Disaster Management Ecosystem (PDME)</a>
+**AI-Powered Disaster Monitoring & Flood Forecasting Platform**
+Multi-tiered platform for real-time disaster monitoring, AI-powered flood forecasting, weather intelligence, and community-driven incident reporting — built to enhance emergency response and resource allocation across Pakistan. Combines live mapping, ML-based river/reservoir analysis, and an LLM-driven disaster analyst chatbot.
+`React` `FastAPI` `PostgreSQL` `Prisma` `CatBoost` `XGBoost` `Leaflet` `ArcGIS` `Google Gemini API` `Open-Meteo API`
+<br>
+<a href="https://pdme.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/QaziTehmas/ndma-comp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏃 <a href="https://comfortable-stillness-production-0d8d.up.railway.app/" target="_blank" rel="noopener noreferrer">NeuralMotion</a>
 **AI Human Action Recognition**
-
 Hybrid deep learning: ResNet-50 (CNN) for spatial features + Bidirectional LSTM for temporal modeling, classifying complex physical activity from raw video. Flask + PyTorch inference behind a React dashboard.
-
 `React` `Flask` `PyTorch` `ResNet-50` `BiLSTM`
+<br>
+<a href="https://comfortable-stillness-production-0d8d.up.railway.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/SmartAction-Recognition" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏗️ <a href="https://crack-detection.up.railway.app/" target="_blank" rel="noopener noreferrer">CrackDetection</a>
 **AI Structural Inspection Platform**
-
 Benchmarks 4 CNN architectures (EfficientNetB0, ResNet50, MobileNetV2, DenseNet121) live via Hugging Face endpoints, with a comparative dashboard for confidence scores + latency.
-
 `React` `Hugging Face` `CNN Ensembles`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌿 <a href="https://ecotech-solutions.vercel.app/" target="_blank" rel="noopener noreferrer">EcoTech</a>
-**Clean Tech Studio**
-
-Data-driven analytics platform for sustainability performance monitoring with real-time charts.
-
-`React` `TypeScript` `Three.js` `Recharts`
+<br>
+<a href="https://crack-detection.up.railway.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/CrackDetection" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🍞 <a href="https://jaa-nasheen-bakery.vercel.app/" target="_blank" rel="noopener noreferrer">JaaNasheen Bakery</a>
-**Modern Bakery Website**
-
-Responsive bakery website with dynamic animations and dark/light theme support, ensuring a seamless user experience across devices.
-
-`React` `TypeScript` `Tailwind CSS` `Framer Motion` `shadcn/ui` `Radix UI`
+### 🌿 <a href="https://ecotech-solutions.vercel.app/" target="_blank" rel="noopener noreferrer">EcoTech</a>
+**Clean Tech Studio**
+Data-driven analytics platform for sustainability performance monitoring with real-time charts.
+`React` `TypeScript` `Three.js` `Recharts`
+<br>
+<a href="https://ecotech-solutions.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/ecotech-solutions-site" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+### 🍞 <a href="https://jaa-nasheen-bakery.vercel.app/" target="_blank" rel="noopener noreferrer">JaaNasheen Bakery</a>
+**Modern Bakery Website**
+Responsive bakery website with dynamic animations and dark/light theme support, ensuring a seamless user experience across devices.
+`React` `TypeScript` `Tailwind CSS` `Framer Motion` `shadcn/ui` `Radix UI`
+<br>
+<a href="https://jaa-nasheen-bakery.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/jaa-nasheen-bakery-website" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
 </tr>
 </table>
-
 <br>
+<div align="center">
 
 ### 🤝 Let's Build Something
 
 <a href="http://www.linkedin.com/in/muhammad-zain-nasir-811303365" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://muhammad-zain-nasir.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
+<br>
 <img src="https://komarev.com/ghpvc/?username=mzainnasir010&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
+<br>
+
+
 
 </div>
 
