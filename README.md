@@ -1,115 +1,170 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zain Nasir</h1>
-<h3 align="center">Full-Stack Web Developer | MERN & Next.js | AI-integrated Web3 Builder</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+AI+%2B+Web3+products" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Muhammad%20Zain%20Nasir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20%2B%20Web3&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="http://www.linkedin.com/in/muhammad-zain-nasir-811303365"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://muhammad-zain-nasir.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:zainnasir6921@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<a href="http://www.linkedin.com/in/muhammad-zain-nasir-811303365"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://muhammad-zain-nasir.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:zainnasir6921@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Building+AI-integrated+Web3+products;React+%2B+Next.js+%2B+Node.js+%2F+TypeScript;1st+Place+%E2%80%94+DEWTE-25+(NDMA+Pakistan);Open+to+Full-Stack+%2F+Frontend+roles" />
 
-### 🚀 About Me
-- 🎓 CS Graduate, Air University Islamabad (2022–2026)
-- 💼 Full-Stack Dev — MERN Stack, Next.js, TypeScript
-- 🧠 Interested in AI-integrated & Web3 products
-- 🏆 1st Place, DEWTE-25 (NDMA Pakistan)
-- 🌱 Currently open to Full-Stack / Frontend roles
+</div>
 
----
+<br>
 
-### 🛠️ Tech Stack
+```yaml
+whoami:
+  name: "Muhammad Zain Nasir"
+  role: "Full-Stack Web Developer"
+  location: "Islamabad, Pakistan"
+  education: "BS Computer Science — Air University (2022-2026)"
+  focus: ["MERN Stack", "Next.js", "TypeScript", "AI x Web3"]
+  currently: "Job hunting + shipping side projects"
+  fun_fact: "Shipped 6+ full-stack apps, one of them mints NFTs of ancient artifacts"
+```
+
+<br>
+
+## 🧠 About
+
+I'm a fresh CS grad who builds **production-grade full-stack apps** — not tutorials, actual deployed products with real users in mind. Two internships (PTCL, Octathorn-NASTP) sharpened my React/Next.js/Node fundamentals; my personal projects push into **computer vision, deep learning inference, and Web3** because I like building at the edge of "is this even possible in a browser."
+
+- 🔭 Currently building: polishing **Miraas** (AI + Web3 museum platform) for public launch
+- 🌱 Currently deepening: system design + scalable backend architecture
+- 🏆 1st Place — DEWTE-25, Disaster Early Warning Tech Expo (NDMA Pakistan)
+- 💬 Ask me about: React/Next.js architecture, PyTorch inference in web apps, or NFT marketplace mechanics
+- 📫 Reach me: **zainnasir6921@gmail.com**
+
+<br>
+
+## ⚙️ Tech Stack
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
 **Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,bootstrap,materialui" />
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,materialui,html,css"/>
 
 **Backend**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,socketio" />
-</p>
-
-**Databases**
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql" />
-</p>
-
-**Animation / 3D**
-<p>
-<img src="https://skillicons.dev/icons?i=threejs" />
-Framer Motion • Anime.js
-</p>
-
-**Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dart" />
-</p>
-
-**Cloud / Hosting / Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=docker,vercel,render,railway,git,github,postman,vscode,pycharm,anaconda,slack" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🖼️ [Miraas – Digital Museum Ecosystem & NFT Marketplace](https://miraas.tech/)**
-Web3 platform for cultural heritage preservation with AI-based artifact restoration (SegFormer, UNet-ResNet) + Ethereum NFT marketplace.
-`React` `Web3` `SegFormer` `UNet-ResNet`
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,flask,socketio"/>
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-**🏃 [NeuralMotion – AI Action Recognition](https://comfortable-stillness-production-0d8d.up.railway.app/)**
-Human action recognition using ResNet-50 + BiLSTM, Flask backend with PyTorch inference.
-`React` `Flask` `PyTorch` `ResNet-50`
+**Databases & Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,docker,vercel,railway,render"/>
+
+**AI / Languages / Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c,cs,dart,git,github,postman,vscode"/>
+
+</td>
+</tr>
+</table>
+
+<sub>Also fluent in: JWT Auth · WebRTC · Three.js · Framer Motion · Anime.js · Cloudinary · Stripe · Resend</sub>
+
+<br>
+
+## 🚀 Featured Builds
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ [Miraas](https://miraas.tech/)
+**AI + Web3 Digital Museum Ecosystem**
+
+Full-stack platform for cultural heritage preservation — React admin dashboard, public site, and an Ethereum NFT marketplace. AI pipeline (SegFormer + custom UNet-ResNet) auto-detects artifact defects and drives restoration.
+
+`React` `Solidity/Web3` `NFT` `SegFormer` `UNet-ResNet`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏃 [NeuralMotion](https://comfortable-stillness-production-0d8d.up.railway.app/)
+**AI Human Action Recognition**
+
+Hybrid deep learning: ResNet-50 (CNN) for spatial features + Bidirectional LSTM for temporal modeling, classifying complex physical activity from raw video. Flask + PyTorch inference behind a React dashboard.
+
+`React` `Flask` `PyTorch` `ResNet-50` `BiLSTM`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🏗️ [CrackDetection – AI Structural Inspection](https://crack-detection.up.railway.app/)**
-Compares 4 CNN architectures (EfficientNetB0, ResNet50, MobileNetV2, DenseNet121) for concrete crack detection via Hugging Face endpoints.
-`React` `Hugging Face` `CNNs`
+### 🏗️ [CrackDetection](https://crack-detection.up.railway.app/)
+**AI Structural Inspection Platform**
+
+Benchmarks 4 CNN architectures (EfficientNetB0, ResNet50, MobileNetV2, DenseNet121) live via Hugging Face endpoints, with a comparative dashboard for confidence scores + latency.
+
+`React` `Hugging Face` `CNN Ensembles`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🌿 [EcoTech – Clean Tech Studio](https://ecotech-solutions.vercel.app/)**
-Responsive clean-tech platform with data-driven analytics dashboard.
+### 🌿 [EcoTech](https://ecotech-solutions.vercel.app/)
+**Clean Tech Studio**
+
+Data-driven analytics platform for sustainability performance monitoring with real-time charts.
+
 `React` `TypeScript` `Three.js` `Recharts`
 
 </td>
 </tr>
 </table>
 
-**🍞 [JaaNasheen Bakery](https://jaa-nasheen-bakery.vercel.app/)** — Modern bakery website with dark/light theme + Framer Motion animations.
-`React` `TypeScript` `shadcn/ui`
+<div align="center">
+<a href="https://jaa-nasheen-bakery.vercel.app/"><img src="https://img.shields.io/badge/🍞_JaaNasheen_Bakery-Live_Demo-2563EB?style=for-the-badge"/></a>
+</div>
 
----
+<br>
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mzainnasir010&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzainnasir010&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mzainnasir010&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mzainnasir010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mzainnasir010&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzainnasir010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mzainnasir010&theme=tokyo-night&hide_border=true&bg_color=0d1117" height="165"/>
 
-<p align="center">💬 Let's connect and build something cool!</p>
+</div>
+
+<div align="center">
+
+### 🏆 Trophy Room
+<img src="https://github-profile-trophy.vercel.app/?username=mzainnasir010&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mzainnasir010/mzainnasir010/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<sub>👆 This animates itself daily via a GitHub Action — setup steps below.</sub>
+
+<br>
+
+<div align="center">
+
+### 🤝 Let's Build Something
+
+<a href="http://www.linkedin.com/in/muhammad-zain-nasir-811303365"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://muhammad-zain-nasir.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=mzainnasir010&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
