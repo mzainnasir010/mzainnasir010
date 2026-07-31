@@ -6,7 +6,7 @@
 <a href="https://muhammad-zain-nasir.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:zainnasir6921@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Building+AI-integrated+Web3+products;React+%2B+Next.js+%2B+Node.js+%2F+TypeScript;1st+Place+%E2%80%94+DEWTE-25+(NDMA+Pakistan);Open+to+Full-Stack+%2F+Frontend+roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Building+AI-integrated+products;MERN+%2B+Next.js;1st+Place+-+DEWTE-25+(NDMA+Pakistan);Open+to+Full-Stack%2C+Frontend+%26+Backend+Roles" />
 
 </div>
 
