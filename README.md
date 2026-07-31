@@ -70,7 +70,7 @@ Full-Stack Web Developer specializing in the **MERN Stack** (MongoDB, Express.js
 
 ### 🏛️ <a href="https://miraas.tech/" target="_blank" rel="noopener noreferrer">Miraas</a>
 **AI + Web3 Digital Museum Ecosystem**
-Full-stack platform for cultural heritage preservation — React admin dashboard, public site, and an Ethereum NFT marketplace. AI pipeline (SegFormer + custom UNet-ResNet) auto-detects artifact defects and drives restoration.
+Full-stack platform for cultural heritage preservation - React admin dashboard, public site, and an Ethereum NFT marketplace. AI pipeline (SegFormer + custom UNet-ResNet) auto-detects artifact defects and drives restoration.
 `React` `Solidity/Web3` `NFT` `SegFormer` `UNet-ResNet`
 <br>
 <a href="https://miraas.tech/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/miraas" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
