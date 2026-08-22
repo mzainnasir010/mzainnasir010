@@ -71,7 +71,7 @@ Full-Stack Web Developer specializing in the **MERN Stack** (MongoDB, Express.js
 ### 🏛️ <a href="https://miraas.tech/" target="_blank" rel="noopener noreferrer">Miraas</a>
 **AI + Web3 Digital Museum Ecosystem**
 Full-stack platform for cultural heritage preservation - React admin dashboard, public site, and an Ethereum NFT marketplace. AI pipeline (SegFormer + custom UNet-ResNet) auto-detects artifact defects and drives restoration.<br>
-`React` `Express + Node` `Solidity/Web3` `NFT` `SegFormer` `UNet-ResNet` 'MongoDB` `Stripe` `Cloudinary`
+`React.js` `Node.js + Express.js` `Solidity + Web3` `NFT Marketplace` `SegFormer` `U-Net + ResNet` `MongoDB` `Stripe` `Cloudinary`<br>
 <br>
 <a href="https://miraas.tech/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/miraas" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
@@ -82,7 +82,7 @@ Full-stack platform for cultural heritage preservation - React admin dashboard, 
 **AI-Powered Disaster Monitoring & Flood Forecasting Platform**
 Multi-tiered platform for real-time disaster monitoring, AI-powered flood forecasting, weather intelligence, and community-driven incident reporting — built to enhance emergency response and resource allocation across Pakistan. Combines live mapping, ML-based river/reservoir analysis, and an LLM-driven disaster analyst chatbot.<br>
 `React` `FastAPI` `PostgreSQL` `Prisma` `CatBoost` `XGBoost` `Leaflet` `ArcGIS` `Google Gemini API` `Open-Meteo API`
-<br>
+<br><br>
 <a href="https://pdme.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/QaziTehmas/ndma-comp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -94,7 +94,7 @@ Multi-tiered platform for real-time disaster monitoring, AI-powered flood foreca
 **AI Human Action Recognition**
 Hybrid deep learning: ResNet-50 (CNN) for spatial features + Bidirectional LSTM for temporal modeling, classifying complex physical activity from raw video. Flask + PyTorch inference behind a React dashboard.<br>
 `React` `Flask` `PyTorch` `ResNet-50` `BiLSTM`
-<br>
+<br><br>
 <a href="https://comfortable-stillness-production-0d8d.up.railway.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/SmartAction-Recognition" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -104,7 +104,7 @@ Hybrid deep learning: ResNet-50 (CNN) for spatial features + Bidirectional LSTM 
 **AI Structural Inspection Platform**
 Benchmarks 4 CNN architectures (EfficientNetB0, ResNet50, MobileNetV2, DenseNet121) live via Hugging Face endpoints, with a comparative dashboard for confidence scores + latency.<br>
 `React` `Hugging Face` `CNN Ensembles`
-<br>
+<br><br>
 <a href="https://crack-detection.up.railway.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/CrackDetection" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -116,7 +116,7 @@ Benchmarks 4 CNN architectures (EfficientNetB0, ResNet50, MobileNetV2, DenseNet1
 **Clean Tech Studio**
 Data-driven analytics platform for sustainability performance monitoring with real-time charts.<br>
 `React` `TypeScript` `Three.js` `Recharts`
-<br>
+<br><br>
 <a href="https://ecotech-solutions.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/ecotech-solutions-site" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -126,7 +126,7 @@ Data-driven analytics platform for sustainability performance monitoring with re
 **Modern Bakery Website**
 Responsive bakery website with dynamic animations and dark/light theme support, ensuring a seamless user experience across devices.<br>
 `React` `TypeScript` `Tailwind CSS` `Framer Motion` `shadcn/ui` `Radix UI`
-<br>
+<br><br>
 <a href="https://jaa-nasheen-bakery.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/jaa-nasheen-bakery-website" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -138,7 +138,7 @@ Responsive bakery website with dynamic animations and dark/light theme support, 
 **AI Chatbot Powered by Google Gemini**
 Full-stack streaming chatbot with a FastAPI server and Streamlit client. Features real-time token-by-token response streaming, multi-model switching across the Gemini family, dark/light themes, and live response stats (generation time, word count).<br>
 `FastAPI` `LangChain` `Google Gemini API` `Streamlit`
-<br>
+<br><br>
 <a href="https://echo-ai-chatbot.streamlit.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/ai-chatbot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
