@@ -131,6 +131,22 @@ Responsive bakery website with dynamic animations and dark/light theme support, 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔮 <a href="https://echo-ai-chatbot.streamlit.app/" target="_blank" rel="noopener noreferrer">Echo</a>
+**AI Chatbot Powered by Google Gemini**
+Full-stack streaming chatbot with a FastAPI server and Streamlit client. Features real-time token-by-token response streaming, multi-model switching across the Gemini family, dark/light themes, and live response stats (generation time, word count).
+`FastAPI` `LangChain` `Google Gemini API` `Streamlit`
+<br>
+<a href="https://echo-ai-chatbot.streamlit.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/ai-chatbot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+
 </table>
 <br>
 <div align="center">
