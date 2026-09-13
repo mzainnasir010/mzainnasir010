@@ -14,7 +14,7 @@
 
 ## 🧠 About
 
-Full-Stack Web Developer specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js), **Next.js**, and **TypeScript**. Experienced across frontend and backend development, including RESTful API design and integration, relational and NoSQL database management (PostgreSQL, MongoDB, Supabase), and state management with Redux and Context API. Completed two full-stack development internships at **Octathorn-NASTP** and **PTCL Islamabad**, delivering production features in React, Node.js, and Next.js. Built and deployed 6+ full-stack projects, including an AI-integrated Web3 NFT marketplace. **1st Place, DEWTE-25 (NDMA Pakistan).**
+Full-Stack Web Developer specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js), **Next.js**, and **TypeScript**. Experienced across frontend and backend development, including RESTful API design and integration, relational and NoSQL database management (PostgreSQL, MongoDB, Supabase), and state management with Redux and Context API. Completed two full-stack development internships at **Octathorn-NASTP** and **PTCL Islamabad**, delivering production features in React, Node.js, and Next.js. Built and deployed 8+ full-stack projects, including an AI-integrated Web3 NFT marketplace. **1st Place, DEWTE-25 (NDMA Pakistan).**
 
 - 🔭 Currently building: polishing **Miraas** (AI + Web3 museum platform) for public launch
 - 🌱 Currently deepening: system design + scalable backend architecture
@@ -88,7 +88,6 @@ Multi-tiered platform for real-time disaster monitoring, AI-powered flood foreca
 </td>
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🧩 <a href="https://candidex-ai.vercel.app/" target="_blank" rel="noopener noreferrer">Candidex</a>
@@ -99,7 +98,6 @@ NLP-driven recruitment assistant that parses resumes, extracts skills, and score
 <a href="https://candidex-ai.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/Automated-Resume-Screening-System" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🏃 <a href="https://comfortable-stillness-production-0d8d.up.railway.app/" target="_blank" rel="noopener noreferrer">NeuralMotion</a>
@@ -110,6 +108,8 @@ Hybrid deep learning: ResNet-50 (CNN) for spatial features + Bidirectional LSTM 
 <a href="https://comfortable-stillness-production-0d8d.up.railway.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/SmartAction-Recognition" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏗️ <a href="https://crack-detection.up.railway.app/" target="_blank" rel="noopener noreferrer">CrackDetection</a>
@@ -120,8 +120,6 @@ Benchmarks 4 CNN architectures (EfficientNetB0, ResNet50, MobileNetV2, DenseNet1
 <a href="https://crack-detection.up.railway.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/CrackDetection" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌿 <a href="https://ecotech-solutions.vercel.app/" target="_blank" rel="noopener noreferrer">EcoTech</a>
@@ -132,6 +130,8 @@ Data-driven analytics platform for sustainability performance monitoring with re
 <a href="https://ecotech-solutions.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/ecotech-solutions-site" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🍞 <a href="https://jaa-nasheen-bakery.vercel.app/" target="_blank" rel="noopener noreferrer">JaaNasheen Bakery</a>
@@ -142,8 +142,6 @@ Responsive bakery website with dynamic animations and dark/light theme support, 
 <a href="https://jaa-nasheen-bakery.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/jaa-nasheen-bakery-website" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🤖 <a href="https://echo-ai-chatbot.streamlit.app/" target="_blank" rel="noopener noreferrer">Echo</a>
@@ -154,13 +152,8 @@ Full-stack streaming chatbot with a FastAPI server and Streamlit client. Feature
 <a href="https://echo-ai-chatbot.streamlit.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/ai-chatbot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
-
-</table>
-<br>
+</table><br>
 <div align="center">
 
 ### 🤝 Let's Build Something
