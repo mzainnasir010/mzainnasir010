@@ -88,6 +88,18 @@ Multi-tiered platform for real-time disaster monitoring, AI-powered flood foreca
 </td>
 </tr>
 <tr>
+
+<td width="50%" valign="top">
+
+### 🧩 <a href="https://candidex-ai.vercel.app/" target="_blank" rel="noopener noreferrer">Candidex</a>
+**AI Resume Screening & Candidate Ranking**
+NLP-driven recruitment assistant that parses resumes, extracts skills, and scores candidates against a job description using TF-IDF + Sentence Transformer embeddings. FastAPI backend behind a Next.js recruiter dashboard with explainable matched/missing skills.<br>
+`Next.js` `FastAPI` `spaCy` `Sentence-Transformers` `scikit-learn`
+<br><br>
+<a href="https://candidex-ai.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/Automated-Resume-Screening-System" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 🏃 <a href="https://comfortable-stillness-production-0d8d.up.railway.app/" target="_blank" rel="noopener noreferrer">NeuralMotion</a>
