@@ -14,10 +14,10 @@
 
 ## 🧠 About
 
-Full-Stack Web Developer specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js), **Next.js**, and **TypeScript**. Experienced across frontend and backend development, including RESTful API design and integration, relational and NoSQL database management (PostgreSQL, MongoDB, Supabase), and state management with Redux and Context API. Completed two full-stack development internships at **Octathorn-NASTP** and **PTCL Islamabad**, delivering production features in React, Node.js, and Next.js. Built and deployed 8+ full-stack projects, including an AI-integrated Web3 NFT marketplace. **1st Place, DEWTE-25 (NDMA Pakistan).**
+Full-Stack Developer & AI Engineer specializing in the **MERN** and **PERN** stacks (MongoDB/PostgreSQL, Express.js, React, Node.js), **Next.js**, and **TypeScript**, alongside AI/ML development with **Python**, **FastAPI**, and **Flask**. Experienced across frontend and backend development, including RESTful API design, database management (PostgreSQL, MongoDB, Supabase), state management with Redux and Context API, and building NLP and machine learning pipelines with scikit-learn and LangChain. Completed three internships at **seKer AI** (AI/ML & Data Science), **Octathorn-NASTP**, and **PTCL Islamabad**, delivering production features and AI-powered systems. Built and deployed 8+ full-stack and AI projects, including an AI-integrated Web3 NFT marketplace, an LLM-powered chatbot, and a resume screening system. **1st Place, DEWTE-25 (NDMA Pakistan).**
 
 - 🔭 Currently building: polishing **Miraas** (AI + Web3 museum platform) for public launch
-- 🌱 Currently deepening: system design + scalable backend architecture
+- 🌱 Currently deepening: system design, scalable backend architecture, and applied machine learning
 - 📫 Reach me: **zainnasir6921@gmail.com**
 
 <br>
