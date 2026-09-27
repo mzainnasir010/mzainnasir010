@@ -130,6 +130,16 @@ Multi-tiered platform for real-time disaster monitoring, AI-powered flood foreca
 <tr>
 <td width="50%" valign="top">
 
+### 🔄 <a href="https://retainly.zainnasir6921.workers.dev/" target="_blank" rel="noopener noreferrer">Retainly</a>
+**AI-Powered Customer Churn Prediction & Retention System**
+End-to-end ML system predicting telecom churn risk with SHAP-based explainability. Tuned XGBoost model (0.850 CV ROC-AUC) with an F2-optimized threshold lifting churner recall from 51% to 88.5%, served via FastAPI and visualized through a Vue 3 + Three.js suite of prediction, batch processing, and ROI simulation studios.<br>
+`Vue.js` `Python` `Jupyter Notebook` `scikit-learn` `XGBoost` `SHAP` `FastAPI` `Pydantic` `TypeScript` `Three.js` `Pinia`
+<br><br>
+<a href="https://retainly.zainnasir6921.workers.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/customer-churn-prediction" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧩 <a href="https://candidex-ai.vercel.app/" target="_blank" rel="noopener noreferrer">Candidex</a>
 **AI Resume Screening & Candidate Ranking**
 NLP-driven recruitment assistant that parses resumes, extracts skills, and scores candidates against a job description using TF-IDF + Sentence Transformer embeddings. FastAPI backend behind a Next.js recruiter dashboard with explainable matched/missing skills.<br>
@@ -138,6 +148,8 @@ NLP-driven recruitment assistant that parses resumes, extracts skills, and score
 <a href="https://candidex-ai.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/Automated-Resume-Screening-System" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏃 <a href="https://comfortable-stillness-production-0d8d.up.railway.app/" target="_blank" rel="noopener noreferrer">NeuralMotion</a>
@@ -148,8 +160,6 @@ Hybrid deep learning: ResNet-50 (CNN) for spatial features + Bidirectional LSTM 
 <a href="https://comfortable-stillness-production-0d8d.up.railway.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/SmartAction-Recognition" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏗️ <a href="https://crack-detection.up.railway.app/" target="_blank" rel="noopener noreferrer">CrackDetection</a>
@@ -160,6 +170,8 @@ Benchmarks 4 CNN architectures (EfficientNetB0, ResNet50, MobileNetV2, DenseNet1
 <a href="https://crack-detection.up.railway.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/CrackDetection" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌿 <a href="https://ecotech-solutions.vercel.app/" target="_blank" rel="noopener noreferrer">EcoTech</a>
@@ -170,8 +182,6 @@ Data-driven analytics platform for sustainability performance monitoring with re
 <a href="https://ecotech-solutions.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/ecotech-solutions-site" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🍞 <a href="https://jaa-nasheen-bakery.vercel.app/" target="_blank" rel="noopener noreferrer">JaaNasheen Bakery</a>
@@ -182,6 +192,8 @@ Responsive bakery website with dynamic animations and dark/light theme support, 
 <a href="https://jaa-nasheen-bakery.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/jaa-nasheen-bakery-website" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 <a href="https://echo-ai-chatbot.streamlit.app/" target="_blank" rel="noopener noreferrer">Echo</a>
@@ -190,6 +202,9 @@ Full-stack streaming chatbot with a FastAPI server and Streamlit client. Feature
 `FastAPI` `LangChain` `Google Gemini API` `Streamlit`
 <br><br>
 <a href="https://echo-ai-chatbot.streamlit.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/ai-chatbot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
