@@ -135,7 +135,7 @@ Multi-tiered platform for real-time disaster monitoring, AI-powered flood foreca
 End-to-end ML system predicting telecom churn risk with SHAP-based explainability. Tuned XGBoost model (0.850 CV ROC-AUC) with an F2-optimized threshold lifting churner recall from 51% to 88.5%, served via FastAPI and visualized through a Vue 3 + Three.js suite of prediction, batch processing, and ROI simulation studios.<br>
 `Vue.js` `Python` `Jupyter Notebook` `scikit-learn` `XGBoost` `SHAP` `FastAPI` `Pydantic` `TypeScript` `Three.js` `Pinia`
 <br><br>
-<a href="https://retainly.zainnasir6921.workers.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/customer-churn-prediction" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://retainlyy.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/mzainnasir010/customer-churn-prediction" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
